@@ -5,7 +5,9 @@
   height="200px"
   align="center"
   /> </div>
+  
 ---
+
 ### Pac-Man de Tōru Iwatani  
 Réplica desenvolvida com a seguinte esquematização:
-- Linguagem de Programação back-End: Javascript
+<!-- Linguagem de Programação back-End: Javascript-->
