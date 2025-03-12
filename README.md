@@ -10,6 +10,11 @@
 </div>
 
 ---
+<p align="center">
+  <img src="assets/Old%20School%20Video%20Games%20GIF%20-%20Old%20School%20Video%20Games%20Pac%20Man%20-%20Discover%20%26%20Share%20GIFs.gif" alt="Exemplo-PACMAN" style="border-radius: 15px;">
+</p>
+
+---
 
 ### 🚀 Tecnologias  
 [![HTML](https://img.shields.io/badge/HTML-5.0-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
