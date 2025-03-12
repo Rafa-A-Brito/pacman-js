@@ -1,3 +1,5 @@
+### Jogo do PACMAN
+
 <div align="center">
   <img  
   src="./assets/Game PACMAN.png" 
@@ -6,6 +8,7 @@
   align="center"
    /> 
 </div>
+
 ---
 
 ### 🚀 Tecnologias  
