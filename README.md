@@ -16,18 +16,67 @@
 
 ---
 
-### 🚀 Tecnologias  
-[![HTML](https://img.shields.io/badge/HTML-5.0-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+# Pac-Man - Réplica 🎮
+
+Esta é uma réplica do clássico **Pac-Man** de Tōru Iwatani, desenvolvida utilizando **HTML5**, **CSS3** e **JavaScript**.
 
 ---
 
-### Pac-Man de Tōru Iwatani  
-Réplica desenvolvida utilizando a seguinte arquitetura:
-- Markup e estrutura: HTML5
-- Lógica de jogo e mecânicas: JavaScript
-- Estilização e layout: CSS3
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** - Estrutura e markup da página
+- **CSS3** - Estilização e layout do jogo
+- **JavaScript** - Lógica de jogo, movimentação e mecânicas
+
+---
+
+## 🕹️ Como Jogar
+
+1. Use as **setas** do teclado para mover o Pac-Man.
+2. Coma todas as **bolinhas** para avançar de fase.
+3. Evite os **fantasmas**! Se o Pac-Man for tocado por um deles, o jogo reinicia.
+
+---
+
+## 🎮 Funcionalidades
+
+- **Movimentação**: O Pac-Man se move de acordo com as teclas direcionais.
+- **Fantasmas**: Inimigos que se movem pelo labirinto, perseguindo o Pac-Man.
+- **Fase de Jogo**: A cada fase, o objetivo é comer todas as bolinhas e avançar.
+- **Pontos**: Cada bolinha comida soma pontos para o jogador.
+
+---
+
+## 🌟 Como Executar
+
+1. Clone ou baixe este repositório:
+    ```bash
+    git clone https://github.com/Rafa-A-Brito/pacman-js.git
+    ```
+2. Abra o arquivo **index.html** no seu navegador.
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir com melhorias e correções! Basta fazer um **fork** do repositório e abrir um **pull request**.
+
+---
+
+## 🔗 Links
+
+- **Demo**: [Jogue aqui!](https://algo-algo)
+- **Repositório no GitHub**: [https://github.com/Rafa-A-Brito/pacman-js](https://github.com/Rafa-A-Brito/pacman-js)
+
+---
+
+### Feito com 💙 por **codinokronos**
 
 
 
