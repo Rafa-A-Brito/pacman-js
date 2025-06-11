@@ -70,13 +70,13 @@ Sinta-se à vontade para contribuir com melhorias e correções! Basta fazer um 
 ---
 
 ## 🔗 Links
-
-- **Demo**: [Jogue aqui!](https://algo-algo)
+`Demo in development!`
+- **Demo**: [Jogue aqui!](https://bit.ly/pacmanGame)
 - **Repositório no GitHub**: [https://github.com/Rafa-A-Brito/pacman-js](https://github.com/Rafa-A-Brito/pacman-js)
 
 ---
 
-### Feito com 💙 por **codinokronos**
+### Feito com 💙 por **Ꝃrꝋnꝋscoder**
 
 
 

@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <script
+      src="https://kit.fontawesome.com/ca42bbbf84.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>🕹️ Pacman</title>
+  </head>
+  <body>
+    <button
+      id="play"
+      onClick="document.getElementById('play').style.display = 'none'; document.getElementById('h2bestScore').style.display = 'block'; document.getElementById('footer').style.display = 'none'; document.getElementById('mobile').style.display = 'none'"
+    >
+      Clique para comecar
+    </button>
+    <script src="script.js" charset="utf-8"></script>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Pac-Man_Logo.svg/langfr-1920px-Pac-Man_Logo.svg.png"
+      alt="Logo Pac-Man"
+      id="logo"
+    />
+    <h2>Pontuacao : <span id="score">0</span></h2>
+  </body>
 </html>
