@@ -38,7 +38,7 @@ Esta é uma réplica do clássico **Pac-Man** de Tōru Iwatani, desenvolvida uti
 
 ---
 
-## 🎮 Funcionalidades
+## 🎮 Funcionalidades Clássicas
 
 - **Movimentação**: O Pac-Man se move de acordo com as teclas direcionais.
 - **Fantasmas**: Inimigos que se movem pelo labirinto, perseguindo o Pac-Man.

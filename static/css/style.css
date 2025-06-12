@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(10, 7, 67, 1);
+  font-family: "Bungee", cursive;
+}
+
+#pacman_logo {
+  width: 700px;
+}
+
+h2 {
+  margin: -30px auto 5px auto;
+  color: rgb(246, 184, 30);
+  font-size: 28px;
+  font-weight: lighter;
+  text-transform: uppercase;
+  text-shadow: 1.5px 1.5px 0 rgba(239, 0, 0, 1);
+}
+
+#computer {
+  margin-bottom: 35px;
+  color: rgb(246, 184, 30);
+  font-size: 20px;
+  font-weight: lighter;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 rgba(239, 0, 0, 1);
+}
+
+#mobile {
+  display: none;
+}
+
+kbd {
+  font-size: 525;
+}
+
+#play {
+  position: absolute;
+  margin-top: 80px;
+  color: rgba(10, 7, 67, 1);
+  font-family: "Bungee", cursive;
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: rgba(246, 184, 30);
+  border: 2px solid rgba(239, 0, 0, 1);
+  z-index: 100;
+  cursor: pointer;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 560px;
+  height: 560px;
+  margin-bottom: 80px;
+}
+
+.grid div {
+  width: 20px;
+  height: 20px;
+}
+
+.pac-dot {
+  background-color: rgba(247, 191, 60, 1);
+  border: 7px solid rgba(10, 7, 67, 1);
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.wall {
+  background-color: darkblue;
+}
+
+.power-pellet {
+  content: url("");
+  background-color: transparent;
+}
