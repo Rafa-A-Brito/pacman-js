@@ -79,3 +79,50 @@ kbd {
   content: url("");
   background-color: transparent;
 }
+
+.blinky {
+  content: url();
+  filter: contrast(150%);
+  border: 0;
+  border-radius: 0 !important;
+  transform: rotate(0deg) !important;
+  background-color: transparent !important;
+}
+
+.pinky {
+  content: url();
+  border: 0;
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  transform: rotate(0deg) !important;
+}
+
+.inky {
+  content: url();
+  border: 0;
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  transform: rotate(0deg) !important;
+}
+
+.clyde{
+  content: url();
+  border: 0;
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  transform: rotate(0deg) !important;
+}
+
+.scared-ghost {
+  content: url();
+  background-color: transparent;
+  border: 0;
+  border-radius: 0 ;
+}
+
+.pacman {
+  background-color: yellow;
+  border-radius: 30px;
+  border: none;
+  transform: rotate(115deg)
+}
